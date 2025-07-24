@@ -19,6 +19,10 @@ This blog post series is aimed at authors who want to get started with Open Rese
 
 ## Why should I engage with Open Research practices?
 
+Depending on who funds you, you may actually be doing some Opens Science practices anyway. [Plan S](https://www.coalition-s.org/) is an open access publishing initiative that has required, since 2021, any peer-reviewed publications based on research funded in any way by the [cOAlition S members](https://www.coalition-s.org/organisations/) to be deposited in open repositories. See the [Publishing papers covered under Plan S](https://ieeevis.org/year/2024/blog/plublishing-under-plan-s) blog post. Note that Plan S only **requires** depositing the publication itself, while it **encourages** sharing code, data, and other resources.
+
+
+
  bit about plan S requirement with many funders
  some research about how OR improves science
  some personal anecdotes about OR improves *your* science
