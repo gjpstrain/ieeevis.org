@@ -11,7 +11,7 @@ permalink:
 
 #### While we are improving, there is still a way to go.
 
-The VIS Open Practices Committee [State of Open Practices Report, 2024](https://ieeevis.org/year/2024/blog/vis-2024-openpractices-report) reported encouraging improvements in VIS Open Science practices compared to the previous year. In VIS 2024, 67% of accepted full papers were deposited in free and open repositories (ArXiv, OSF, or HAL), 93% included at least one supplemental material field, and 12.5% reported preregistration of their studies. These figures were slightly lower for accepted short papers. Generally, this is a good development, but there is still a way to go!
+The VIS Open Practices Committee [State of Open Practices Report, 2024](https://ieeevis.org/year/2024/blog/vis-2024-openpractices-report) reported encouraging improvements in VIS Open Science practices compared to the previous year. In VIS 2024, 67% of accepted full papers were deposited in free and open repositories (arXiv, OSF, or HAL), 93% included at least one supplemental material field, and 12.5% reported preregistration of their studies. These figures were slightly lower for accepted short papers. Generally, this is a good development, but there is still a way to go!
 
 This blog post series is aimed at authors who want to get started with Open Science practices, but who are not sure how (or why). In the first blog, we will look at:
  - Why should I engage with Open Science practices?
@@ -35,7 +35,11 @@ Thankfully, there are three low-barrier-to-entry Open Science practices that req
 
 ## Preregistration
 
-This is probably the easiest and quickest Open Science practice to get to grips, and also one of the most beneficial. As researchers, it is difficult to distinguish explanations that arise based on data (postdiction) from hypotheses that are tested against new data (prediction). Preregistration is an effective way of solving this issue. This is most often done using the [OSF.io](https://osf.io/) and [AsPredicted](https://aspredicted.org/) platforms. Using these platforms, you can record your hypotheses, methods, and analysis plans, after which they are locked. It is OK to deviate from these plans (research is fluid), as long as this is noted in your publication
+This is probably the easiest and quickest Open Science practice to get to grips with, and also one of the most beneficial. As researchers, it is difficult to distinguish explanations that arise based on data (postdiction) from hypotheses that are tested against new data (prediction). Preregistration is an effective way of solving this issue. This is most often done using the [OSF.io](https://osf.io/) and [AsPredicted](https://aspredicted.org/) platforms. Using these platforms, you can record your hypotheses, methods, and analysis plans, after which they are locked. It is OK to deviate from these plans (research is fluid), as long as this is noted in your publication. OSF includes numerous [templates](https://osf.io/zab38/wiki/home/) to help you write your pre-registration. 
+
+## Pre-prints
+
+Sharing your publication in an open and free repository enables more people to read it, including those without institutional access, such as members of the public. This is as simple as uploading the accepted .pdf of your publication to a free and open repository, such as [arXiv](https://arxiv.org/), [OSF.io](https://osf.io/) or [HAL](https://hal.science/). VIS Open Practices has a [guide](https://ieeevis.org/year/2025/info/open-practices/open-practices-faq) to getting started with pre-prints in a VIS context, and the UK Reproducibility Network [primer](https://osf.io/preprints/osf/8v2n7_v1) is great for a deeper dive into the topic.
 
 [1] McKiernan, Erin C., et al. "How open science helps researchers succeed." elife 5 (2016): e16800.
 
