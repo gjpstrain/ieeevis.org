@@ -11,7 +11,7 @@ permalink:
 
 #### While we are improving, there is still a way to go.
 
-The VIS Open Practices Committee [State of Open Practices Report, 2024](https://ieeevis.org/year/2024/blog/vis-2024-openpractices-report) reported encouraging improvements in VIS Open Science practices compared to the previous year. In VIS 2024, 67% of accepted full papers were deposited in free and open repositories (arXiv, OSF, or HAL), 93% included at least one supplemental material field, and 12.5% reported preregistration of their studies. These figures were slightly lower for accepted short papers. Generally, this is a good development, but there is still a way to go!
+The VIS Open Practices Committee [State of Open Practices Report, 2024](https://ieeevis.org/year/2024/blog/vis-2024-openpractices-report) reported encouraging improvements in VIS Open Science practices compared to the previous year. In VIS 2024, 67% of accepted full papers were deposited in free and open repositories (arXiv, OSF, or HAL), 93% included at least one supplemental material field, and 12.5% reported preregistration of their studies. These figures were slightly lower for accepted short papers.
 
 This blog post series is aimed at authors who want to get started with Open Science practices, but who are not sure how (or why). In the first blog, we will look at:
  - Why should I engage with Open Science practices?
@@ -19,7 +19,7 @@ This blog post series is aimed at authors who want to get started with Open Scie
 
 ### Why should I engage with Open Science practices?
 
-Depending on who funds you, you may actually be doing some Open Science practices anyway. [Plan S](https://www.coalition-s.org/) is an open access publishing initiative that has required, since 2021, any peer-reviewed publications based on research funded in any way by the [cOAlition S members](https://www.coalition-s.org/organisations/) to be deposited in open repositories. See the [Publishing papers covered under Plan S](https://ieeevis.org/year/2024/blog/plublishing-under-plan-s) blog post. Note that Plan S only **requires** depositing the publication itself, while it **encourages** sharing code, data, and other resources.
+Depending on who funds you, you may actually be doing some Open Science practices anyway. [Plan S](https://www.coalition-s.org/) is an open access publishing initiative that has required, since 2021, any peer-reviewed publications based on research funded in any way by the [cOAlition S members](https://www.coalition-s.org/organisations/) to be deposited in open repositories (see the [Publishing papers covered under Plan S](https://ieeevis.org/year/2024/blog/plublishing-under-plan-s) blog post). Note that Plan S only **requires** depositing the publication itself, while it **encourages** sharing code, data, and other resources.
 
 Funder requirements aside, there are moral arguments for Open Science; taxpayers that fund the work we do should be able to read our outputs, and researchers whose institutions cannot afford expensive journal subscriptions should not be discriminated against with regards to the work they are able to read and cite. There are also practical arguments; Open Science practices such as pre-registration, Open Access, and sharing data and code:
 
@@ -31,15 +31,19 @@ Thankfully, there are three low-barrier-to-entry Open Science practices that req
 
  - Preregistration: stating your hypotheses, methods, and analysis plans before you begin data collection.
  - Pre-prints: depositing your final, accepted publication into an open and free repository.
- - Sharing Code and Data: self-explanatory. Doing this facilitates replication [[5]](https://www.nature.com/articles/s44271-023-00003-2).
+ - Sharing Code and Data: self-explanatory. Doing so facilitates replication [[5]](https://www.nature.com/articles/s44271-023-00003-2).
 
 ## Preregistration
 
-This is probably the easiest and quickest Open Science practice to get to grips with, and also one of the most beneficial. As researchers, it is difficult to distinguish explanations that arise based on data (postdiction) from hypotheses that are tested against new data (prediction). Preregistration is an effective way of solving this issue. This is most often done using the [OSF.io](https://osf.io/) and [AsPredicted](https://aspredicted.org/) platforms. Using these platforms, you can record your hypotheses, methods, and analysis plans, after which they are locked. It is OK to deviate from these plans (research is fluid), as long as this is noted in your publication. OSF includes numerous [templates](https://osf.io/zab38/wiki/home/) to help you write your pre-registration. 
+This is probably the easiest and quickest Open Science practice to get to grips with, and also one of the most beneficial. As researchers, it is difficult to distinguish explanations that arise based on data (postdiction) from hypotheses that are tested against new data (prediction). Preregistration is an effective way of solving this issue. This is most often done using the [OSF.io](https://osf.io/) or [AsPredicted](https://aspredicted.org/) platforms. Using these platforms, you can record your hypotheses, methods, and analysis plans, after which they are locked. The key here is honesty and clarity; it is OK to deviate from these plans (research is fluid), as long as this is noted in your publication. OSF includes numerous [templates](https://osf.io/zab38/wiki/home/) to help you write your pre-registration. It does not matter which you use, so long as your plan is preregistered before you begin data collection. 
 
 ## Pre-prints
 
-Sharing your publication in an open and free repository enables more people to read it, including those without institutional access, such as members of the public. This is as simple as uploading the accepted .pdf of your publication to a free and open repository, such as [arXiv](https://arxiv.org/), [OSF.io](https://osf.io/) or [HAL](https://hal.science/). VIS Open Practices has a [guide](https://ieeevis.org/year/2025/info/open-practices/open-practices-faq) to getting started with pre-prints in a VIS context, and the UK Reproducibility Network [primer](https://osf.io/preprints/osf/8v2n7_v1) is great for a deeper dive into the topic.
+Sharing your publication in an open and free repository enables more people to read it, including those without institutional access, such as members of the public. This is as simple as uploading the accepted .pdf of your publication to a free and open repository, such as [arXiv](https://arxiv.org/), [OSF.io](https://osf.io/) or [HAL](https://hal.science/). VIS Open Practices has a [guide](https://ieeevis.org/year/2025/info/open-practices/open-practices-faq) to getting started with pre-prints in a VIS context, and the UK Reproducibility Network [primer](https://osf.io/preprints/osf/8v2n7_v1) is great for a deeper dive into the topic. It is important to check the policy regarding pre-prints at the venue you are publishing in; for example, IEEE policy states that once the paper is accepted, you must add the DOI, copyright notice, and full citation to the pre-print. Other venues/publishers may have different requirements.
+
+## Sharing Data and Code
+
+
 
 [1] McKiernan, Erin C., et al. "How open science helps researchers succeed." elife 5 (2016): e16800.
 
