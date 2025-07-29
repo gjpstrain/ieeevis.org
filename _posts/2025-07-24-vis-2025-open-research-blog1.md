@@ -47,7 +47,7 @@ The [replication crisis](https://www.nature.com/articles/s44271-023-00003-2) in 
 
 Sharing data and code is the most time-consuming Open Science practice described here, as it requires us to make sure our data are clean and anonymised, and that our code can be read and run by others. Mostly, however, this is simply a case of getting used to a more structured way of working. In addition to including data and code in the supplemental materials of the paper, many authors now share their (anonymised) data and code on [OSF.io](https://osf.io/) or [GitHub](https://github.com/) in perpetuity. Here, it is important to not let **perfect be the enemy of good**; sharing imperfectly implemented code is better than sharing nothing at all. 
 
-Enabling full, reliable computational reproducibility is best addressed through the writing of [containerised](https://www.docker.com/resources/what-container/) [executable papers](https://www.nature.com/articles/s42005-020-00403-4)[[6]](https://www.nature.com/articles/s42005-020-00403-4). Blog post 3 goes into more detail on this paradigm.
+Enabling full, reliable computational reproducibility is best addressed through the writing of [containerised](https://www.docker.com/resources/what-container/) [executable papers](https://www.nature.com/articles/s42005-020-00403-4)[[6]](https://www.nature.com/articles/s42005-020-00403-4). Blog posts 2 and 3 go into more detail on these practices.
 
 [1] McKiernan, Erin C., et al. "How open science helps researchers succeed." elife 5 (2016): e16800.
 
