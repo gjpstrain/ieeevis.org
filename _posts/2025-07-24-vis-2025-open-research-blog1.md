@@ -25,7 +25,7 @@ Funder requirements aside, there are moral arguments for Open Science; taxpayers
 
  - Increase your citation count [[1]](https://elifesciences.org/articles/16800.pdf) [[2]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311493).
  - Increase the **diversity** of the citations you receive [[3]](https://link.springer.com/content/pdf/10.1007/s11192-023-04894-0.pdf).
- - Increase the rate at which your work receives citations [[4]](https://onlinelibrary.wiley.com/doi/10.1002/ece3.70030).
+ - Increase the **rate** at which your work receives citations [[4]](https://onlinelibrary.wiley.com/doi/10.1002/ece3.70030).
 
 Thankfully, there are three low-barrier-to-entry Open Science practices that require little time and very little technical knowledge. In the order that these should be done in the course of a research project, these are:
 
