@@ -9,7 +9,7 @@ permalink:
 ---
 # More Open Science in VIS - Preregistrations, Pre-prints, and Sharing Code & Data
 
-#### While we are improving, there is still a way to go.
+#### Three Open Science Practices You Can Start Today.
 
 The VIS Open Practices Committee [State of Open Practices Report, 2024](https://ieeevis.org/year/2024/blog/vis-2024-openpractices-report) reported encouraging improvements in VIS Open Science practices compared to the previous year. In VIS 2024, 67% of accepted full papers were deposited in free and open repositories (arXiv, OSF, or HAL), 93% included at least one supplemental material field, and 12.5% reported preregistration of their studies. These figures were slightly lower for accepted short papers.
 
@@ -43,7 +43,11 @@ Sharing your publication in an open and free repository enables more people to r
 
 ## Sharing Data and Code
 
+The [replication crisis](https://www.nature.com/articles/s44271-023-00003-2) in psychology describes a realisation in the field that many classic findings could be be repeated. While not isolated to psychology, and arising for a range of reasons, including Questionable Research Practices (QRPs) and *publish or perish* academic incentive structures, there has since been a concerted effort to address this. Before a study can be replicated, however, its results must first be reproduced from the data described in the study. This is impossible without the study (at least) sharing its data and (ideally) the code used to perform the computations. Data and code "available on request" is insufficient, with many academics leaving the industry or their institutions.
 
+Sharing data and code is the most time-consuming Open Science practice described here, as it requires us to make sure our data are clean and anonymised, and that our code can be read and run by others. Mostly, however, this is simply a case of getting used to a more structured way of working. Many authors now share their (anonymised) data and code on [OSF.io](https://osf.io/) or [GitHub](https://github.com/) in perpetuity, with links out from the paper to the associated OSF project or GitHub repository, in addition to including data and code in the supplemental materials of the paper. Here, it is important to not let **perfect be the enemy of good**; sharing imperfectly implemented code is better than sharing nothing at all. 
+
+Enabling full, reliable computational reproducibility is best addressed through the writing of [containerised](https://www.docker.com/resources/what-container/) [executable papers](https://www.nature.com/articles/s42005-020-00403-4)[[6]](https://www.nature.com/articles/s42005-020-00403-4). Blog post 3 goes into more detail on this paradigm.
 
 [1] McKiernan, Erin C., et al. "How open science helps researchers succeed." elife 5 (2016): e16800.
 
@@ -54,5 +58,7 @@ Sharing your publication in an open and free repository enables more people to r
 [4] Maitner, Brian, et al. "Code sharing in ecology and evolution increases citation rates but remains uncommon." Ecology and Evolution 14.8 (2024): e70030.
 
 [5] Korbmacher, M., Azevedo, F., Pennington, C.R. et al. "The replication crisis has led to positive structural, procedural, and community changes." Commun Psychol 1, 3 (2023)
+
+[6] Lasser, J. Creating an executable paper is a journey through Open Science. Commun Phys 3, 143 (2020). https://doi.org/10.1038/s42005-020-00403-4
 
 ##### 
